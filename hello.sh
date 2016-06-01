@@ -2,4 +2,4 @@
 
 VERSION=1.0
 
-echo hello world
+echo hello world verison $VERSION
